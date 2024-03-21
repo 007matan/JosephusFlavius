@@ -1,4 +1,4 @@
-                                 ![Josephus Flavius ICON](https://github.com/007matan/JosephusFlavius/blob/master/logo.png)
+![Josephus Flavius ICON](https://github.com/007matan/JosephusFlavius/blob/master/logo.png)
 
 # Josephus Flavius Solver 🛡️                                                    
 
