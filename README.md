@@ -1,6 +1,6 @@
 # Josephus Flavius Solver 🛡️
 
-![Josephus Flavius ICON](https://github.com/007matan/JosephusFlavius/logo.png)
+![Josephus Flavius ICON](https://github.com/007matan/JosephusFlavius/blob/master/logo.png)
 
 
 ## Overview 📜
